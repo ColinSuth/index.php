@@ -63,4 +63,4 @@ jobs:
           app-name: 'Lab9cloud'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_44B9000C139C4B908AA240140213524E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_67214AC8EE504C53B75C0F4675749820 }}
